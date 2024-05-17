@@ -50,28 +50,28 @@ python GPTassistant.py
 
 1. Reading File Content:
 
-- Use the placeholder <filelocation path/to/your/file> in your input.
-- Example: Read the content of <filelocation /path/to/file.txt>
+    - Use the placeholder <filelocation path/to/your/file> in your input.
+    - Example: Read the content of <filelocation /path/to/file.txt>
 
 2. Running Commands:
 
-- Use the placeholder <runcommand your-command> in your input.
-- Example: Run the following command <runcommand ls -la>
-- Interacting with GPT:
+    - Use the placeholder <runcommand your-command> in your input.
+    - Example: Run the following command <runcommand ls -la>
+    - Interacting with GPT:
 
 3. Enter any text to send it directly to the Generative AI model.
 
-- Example: Tell me a joke
+    - Example: Tell me a joke
 
 4. Exit the Program:
 
-- Type exitgpt to terminate the interactive session.
+    - Type exitgpt to terminate the interactive session.
 
 ## Example Session
 
 ```bash
 Interactive GPT
-Enter: Summarize this code <filelocation /path/to/file.txt>
+Enter: Summarize this code <filelocation /path/to/examplecode.py>
 GPT Response: [File summary is displayed here]
 
 Enter: Can you discribe the files that I have if I run <runcommand ls -la>
