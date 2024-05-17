@@ -21,8 +21,8 @@ This project provides a command-line interface (CLI) for interacting with Google
 1. **Clone the Repository**:
 
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/charliecpeterson/GPTassistant.git
+    cd GPTassistant
     ```
 
 2. **Install Required Libraries**:
